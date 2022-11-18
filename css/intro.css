@@ -1,0 +1,35 @@
+.intro {
+    width: 100%;
+    height: 720px;
+    background-color: rgba(70, 28, 28, 0.3);
+    margin-bottom: 80px;
+    border-radius: 30px;
+}
+
+.intro-img {
+    position: absolute;
+    width: 90%;
+    height: 650px;
+    margin-left: 7%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+
+.intro-div {
+    position: absolute;
+    width: 60%;
+    height: 650px;
+    background-color: beige;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.intro-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 32px;
+}

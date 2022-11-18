@@ -1,0 +1,249 @@
+.lados-nav {
+  position: absolute;
+  width: 80%;
+  height: 100px;
+  background-color: rgb(255, 230, 8);
+  margin-left: 9.5%;
+  margin-top: 20px;
+  border-radius: 30px;
+}
+.lados-nav p {
+  font-size: 32px;
+  margin-left: 5px;
+}
+
+.lados-nav p#onde {
+  margin-top: 9px;
+}
+
+.lados-nav p#influ {
+  margin-top: 9px;
+}
+
+/* Lados bons */
+
+.lados-div {
+  display: block;
+  width: 90%;
+  height: 1810px;
+  background-color: white;
+  margin-left: 6%;
+  margin-right: 6%;
+  opacity: 1;
+  border-radius: 50px;
+  margin-bottom: 100px;
+}
+
+.lados-div-2 {
+  display: block;
+  width: 90%;
+  height: 850px;
+  background-color: white;
+  margin-left: 6%;
+  margin-right: 6%;
+  opacity: 1;
+  border-radius: 50px;
+  margin-bottom: 100px;
+}
+
+.lados-div-3 {
+  display: block;
+  width: 90%;
+  height: 750px;
+  background-color: white;
+  margin-left: 6%;
+  margin-right: 6%;
+  opacity: 1;
+  border-radius: 50px;
+  margin-bottom: 100px;
+}
+
+.lados-div-4 {
+  display: block;
+  width: 90%;
+  height: 660px;
+  background-color: white;
+  margin-left: 6%;
+  margin-right: 6%;
+  opacity: 1;
+  border-radius: 50px;
+  margin-bottom: 100px;
+}
+
+.lados-bons-div {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 9.5%;
+  margin-right: 5%;
+  width: 80%;
+  height: 730px;
+  background-color: rgb(113, 230, 119);
+  border-radius: 40px;
+  padding-top: 5px;
+}
+
+.lados-bons-div-2 {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 9.5%;
+  margin-right: 5%;
+  width: 80%;
+  height: 650px;
+  background-color: rgb(113, 230, 119);
+  border-radius: 40px;
+}
+
+.lados-bons-div-3 {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 8%;
+  margin-right: 5%;
+  width: 85%;
+  height: 530px;
+  background-color: rgb(113, 230, 119);
+  border-radius: 40px;
+}
+
+.lados-bons-div-4 {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 8%;
+  margin-right: 5%;
+  width: 85%;
+  height: 460px;
+  background-color: rgb(113, 230, 119);
+  border-radius: 40px;
+}
+
+.lados-bons {
+  position: absolute;
+  width: 80%;
+  height: 80px;
+  margin-top: 20px;
+  margin-left: 8%;
+  background-color: rgb(12, 110, 20);
+  border-radius: 20px;
+}
+
+.lados-bons p {
+  margin-top: 20px;
+  font-size: 24px;
+  margin-left: 10px;
+}
+
+.bons-div-1 {
+  position: relative;
+  width: 78%;
+  height: 200px;
+  background-color: rgb(219, 219, 106);
+  margin-top: 150px;
+  margin-left: 12%;
+  border-radius: 30px;
+}
+
+.bons-div-2 {
+  position: absolute;
+  width: 78%;
+  height: 300px;
+  background-color: rgb(219, 219, 106);
+  margin-top: 50px;
+  margin-left: 12%;
+  border-radius: 30px;
+}
+
+.bons-div-3 {
+  position: absolute;
+  width: 78%;
+  height: auto;
+  background-color: rgb(219, 219, 106);
+  margin-top: 50px;
+  margin-left: 10.5%;
+  border-radius: 30px;
+}
+
+.bons-div-4 {
+  position: absolute;
+  width: 85%;
+  height: 460px;
+  background-color: rgb(219, 219, 106);
+  margin-top: 50px;
+  margin-left: 8%;
+  border-radius: 30px;
+}
+
+.bons-div-5 {
+  position: absolute;
+  width: 85%;
+  height: 350px;
+  background-color: rgb(219, 219, 106);
+  margin-top: 50px;
+  margin-left: 8%;
+  border-radius: 30px;
+}
+
+.info-text {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.info-text#ser-um {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+  padding-top: 0px;
+
+}
+
+
+/* Lados ruins */
+
+.lados-ruins {
+  position: absolute;
+  width: 80%;
+  height: 80px;
+  margin-top: 20px;
+  margin-left: 9.5%;
+  background-color: rgb(155, 19, 19);
+  border-radius: 20px;
+}
+
+.lados-ruins p {
+  margin-top: 20px;
+  font-size: 24px;
+  margin-left: 10px;
+}
+
+.lados-ruins-div {
+  position: absolute;
+  margin-top: 920px;
+  margin-left: 9.5%;
+  margin-right: 5%;
+  width: 80%;
+  height: 855px;
+  background-color: rgb(113, 230, 119);
+  border-radius: 40px;
+}
+
+.ruins-div-1 {
+  position: relative;
+  width: 78%;
+  height: 280px;
+  background-color: rgb(219, 219, 106);
+  margin-top: 150px;
+  margin-left: 12%;
+  border-radius: 30px;
+}
+
+.ruins-div-2 {
+  position: absolute;
+  width: 78%;
+  height: 350px;
+  background-color: rgb(219, 219, 106);
+  margin-top: 50px;
+  margin-left: 12%;
+  border-radius: 30px;
+}

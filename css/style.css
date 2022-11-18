@@ -1,0 +1,56 @@
+body {
+  background: linear-gradient(
+    to bottom,
+    rgb(108, 159, 216),
+    rgb(231, 238, 231),
+    rgb(63, 116, 169)
+  );
+  margin: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/plantacao-de-soja_44762-69.webp);
+}
+
+.navig h1 {
+  height: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.pattern {
+  background-color: rgba(245, 245, 245, 0.842);
+  box-sizing: border-box;
+  margin: 42px 30px;
+  border-radius: 50px;
+  height: 470px;
+}
+
+.texto {
+  font-family: cursive;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 15px;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 10px;
+
+  background-color: rgba(245, 245, 245, 0, 1);
+}
+
+.foot {
+  color: #fff;
+  line-height: 1.5;
+  width: 88%;
+  font-size: 14px !important;
+}
+
+.begininging {
+  margin-left: 5%;
+}
+
+.text-footer {
+  padding-top: 200px;
+}
